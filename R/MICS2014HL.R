@@ -96,7 +96,7 @@
 #'   }
 #'
 #' @references \enumerate{
-#' \item UNICEF MICS (\url{http://www.mics.unicef.org/surveys}).
+#' \item UNICEF MICS (\url{https://mics.unicef.org/surveys}).
 #'  }
 #'
 #'   

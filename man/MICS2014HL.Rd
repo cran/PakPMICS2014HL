@@ -4,7 +4,8 @@
 \name{MICS2014HL}
 \alias{MICS2014HL}
 \title{Multiple Indicator Cluster Survey (MICS) 2014 Household Listing Questionnaire Data for Punjab, Pakistan}
-\format{A data frame with 246501 rows and 81 variables:
+\format{
+A data frame with 246501 rows and 81 variables:
 \describe{
   \item{\code{HH1}}{Cluster number}
   \item{\code{HH2}}{Household number}
@@ -87,7 +88,8 @@
   \item{\code{wscorer}}{Rural wealth score}
   \item{\code{windex5r}}{Rural wealth index quintile}
   \item{\code{hhweight}}{Household sample weight} 
-  }}
+  }
+}
 \usage{
 data(MICS2014HL)
 }
@@ -99,7 +101,7 @@ data(MICS2014HL)
 }
 \references{
 \enumerate{
-\item UNICEF MICS (\url{http://www.mics.unicef.org/surveys}).
+\item UNICEF MICS (\url{https://mics.unicef.org/surveys}).
  }
 }
 \author{
